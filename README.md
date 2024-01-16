@@ -1,5 +1,14 @@
 ### Hi there this is Devin Bhavsar 👋
-I'm currently a student at Triple 10 Software Engineer student 
+I'm currently a student at Triple 10 Software Engineer student. 
+My current goals as of now is to complete my Software Enginner program and find a job my main interest would be a job as a Software Engineer or Web Developer. 
+My current fields of expertise are on HTML and CSS, with the truth be told, I'm not the best right now at Javascript, however I highly plan on changing that soon. 
+
+I can state that I reached Triple 10 in September 2023 and it was one of the best programs that I met and had the honor to study in. 
+I initially wanted to become a State-Trooper and work for the Connecticut State Police but my dream for a career in that agency never happened. 
+Joining Triple 10 and potentially becoming a Software Engineer really made me change my career mindset. 
+I look forward to future studies. 
+
+If you want to reach out to me message me I will provide you with my contact information. 
 <!--
 **Agent610/Agent610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
