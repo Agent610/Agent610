@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there this is Devin Bhavsar 👋
+I'm currently a student at Triple 10 Software Engineer student 
 <!--
 **Agent610/Agent610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
