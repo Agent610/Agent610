@@ -1,7 +1,6 @@
 ### Hi there this is Devin Bhavsar 👋
 I'm currently a student at Triple 10 Software Engineer student. 
 My current goals as of now is to complete my Software Enginner program and find a job my main interest would be a job as a Software Engineer or Web Developer. 
-My current fields of expertise are on HTML and CSS, with the truth be told, I'm not the best right now at Javascript, however I highly plan on changing that soon. 
 
 I can state that I reached Triple 10 in September 2023 and it was one of the best programs that I met and had the honor to study in. 
 I initially wanted to become a State-Trooper and work for the Connecticut State Police but my dream for a career in that agency never happened. 
