@@ -9,6 +9,7 @@ I'm a Junior Software Engineer focused on building full-stack web applications, 
 I build full-stack applications using modern frontend and backend technologies, with a particular interest in backend development, API design, authentication, and database-driven applications.
 
 Technologies I Work With
+
 Languages: JavaScript, TypeScript, Python, HTML, CSS
 Frontend: React, React Router, Tailwind CSS, Responsive Design
 Backend: Node.js, Express.js, REST APIs, GraphQL
