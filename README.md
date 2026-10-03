@@ -1,53 +1,47 @@
 ### Hi there, I'm Devin Bhavsar 👋
 
-I'm a recent graduate of the TripleTen Software Engineering program, currently focused on launching my career as a Full-Stack Software Engineer with a strong interest in backend development.
+I'm a Junior Software Engineer focused on building full-stack web applications, backend services, and RESTful APIs. I enjoy solving technical problems, learning new technologies, and building software that is reliable, maintainable, and user-focused.
 
 ---
 
 ### 🚀 About Me
 
-I enjoy building reliable, efficient backend systems, while also having solid experience in frontend development. My strengths lean toward backend engineering because I naturally enjoy solving logic-heavy and system design problems, but I am confident working across the full stack.
+I build full-stack applications using modern frontend and backend technologies, with a particular interest in backend development, API design, authentication, and database-driven applications.
 
-During my time at TripleTen, I developed strong skills in:
-- JavaScript / TypeScript
-- React
-- Node.js
-- RESTful APIs
-- Git & GitHub
-- Responsive web development
+Technologies I Work With
+Languages: JavaScript, TypeScript, Python, HTML, CSS
+Frontend: React, React Router, Tailwind CSS, Responsive Design
+Backend: Node.js, Express.js, REST APIs, GraphQL
+Databases: MongoDB, MySQL, SQL
+Tools: Git, GitHub, Postman, Swagger/OpenAPI, Jira
+Cloud & Deployment: Google Cloud, Vercel
 
----
+💻 What I Build
+
+My projects include:
+
+Full-stack web applications
+RESTful APIs and backend services
+Authentication and authorization systems
+Database-driven applications
+Third-party API integrations
+Responsive user interfaces
+
+I'm currently expanding my skills in Python, Machine Learning, and Artificial Intelligence to explore data-driven and intelligent applications.
 
 ### 🎯 Career Goals
 
-My current priority is to secure a role as a Software Engineer, ideally focused on backend or full-stack development.
+I'm currently seeking opportunities as a Junior Software Engineer or Full-Stack Software Engineer where I can contribute to a development team, continue learning, and grow as an engineer.
 
-I’m also interested in:
-- API development
-- Backend architecture
-- Working in collaborative Agile teams
-- Improving system scalability and performance
+🤝 Collaboration
+
+I enjoy collaborating with other developers, helping students troubleshoot technical problems, and sharing knowledge through software engineering mentorship.
 
 ---
-
-### 🔄 Career Transition
-
-Before entering software engineering, I initially planned a career in law enforcement with the Connecticut State Police. Although that path did not materialize, it helped shape my discipline and work ethic.
-
-Joining TripleTen became a turning point that shifted my career direction into software engineering. Since then, I’ve fully committed to building a career in tech.
-
----
-
-### 🤝 Helping Others
-
-One of the most rewarding parts of my journey has been supporting other students throughout the program. I’ve developed a strong interest in tutoring and mentoring, and I’m confident in my ability to help learners succeed across all 16 sprints of the curriculum.
-
----
-
 ### 📫 Contact
 
 I'm open to opportunities and collaboration. Feel free to reach out if you'd like to connect or work together.
 
-<!--
-Optional GitHub stats section can be added later
--->
+Portfolio: https://portfolio-six-lyart-83.vercel.app/
+LinkedIn: https://www.linkedin.com/in/devin-bhavsar-9b4881b0/
+GitHub: https://github.com/Agent610
