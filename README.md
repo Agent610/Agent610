@@ -11,10 +11,15 @@ I build full-stack applications using modern frontend and backend technologies, 
 Technologies I Work With
 
 Languages: JavaScript, TypeScript, Python, HTML, CSS
+
 Frontend: React, React Router, Tailwind CSS, Responsive Design
+
 Backend: Node.js, Express.js, REST APIs, GraphQL
+
 Databases: MongoDB, MySQL, SQL
+
 Tools: Git, GitHub, Postman, Swagger/OpenAPI, Jira
+
 Cloud & Deployment: Google Cloud, Vercel
 
 💻 What I Build
@@ -44,5 +49,7 @@ I enjoy collaborating with other developers, helping students troubleshoot techn
 I'm open to opportunities and collaboration. Feel free to reach out if you'd like to connect or work together.
 
 Portfolio: https://portfolio-six-lyart-83.vercel.app/
+
 LinkedIn: https://www.linkedin.com/in/devin-bhavsar-9b4881b0/
+
 GitHub: https://github.com/Agent610
